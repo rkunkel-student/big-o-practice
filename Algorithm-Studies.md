@@ -146,7 +146,7 @@ In other words:
 
 * If the algorithm follows the pattern "do this, then when done do this", add them.
 
-* If the algorithm follows the pattern "do this for everytime you do that, multiple them.
+* If the algorithm follows the pattern "do this for everytime you do that, multiply them.
 
 <br>
 
@@ -245,6 +245,8 @@ The Space Complexity however might be confusing. Although we have O(2^n) nodes o
 <br>
 
 ## Exercises 
+
+[github](https://github.com/rkunkel-student/big-o-practice/blob/main/README.md)
 
 ### Notes:
 
